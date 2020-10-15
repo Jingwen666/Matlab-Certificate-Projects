@@ -1,2 +1,2 @@
-# Matlab-Certificate-Projects
+# Matlab-Certificate and Projects
 Matlab certificate 
